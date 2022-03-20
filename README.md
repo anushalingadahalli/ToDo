@@ -1,4 +1,4 @@
-# Simple Spreadsheet
+# Simple Todo App
 
 This is a simple Nodejs/Express REST API for a simple todo app.
 
